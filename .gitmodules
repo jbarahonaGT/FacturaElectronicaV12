@@ -1,0 +1,3 @@
+[submodule "FacturaElectronicaV12"]
+	path = FacturaElectronicaV12
+	url = git@github.com:Grant-Thornton-Costa-Rica/FacturaElectronicaV12.git
